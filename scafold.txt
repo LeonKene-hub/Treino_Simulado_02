@@ -1,0 +1,5 @@
+Scaffold-DbContext "Data Source=DESKTOP-3BKCPN3; initial catalog=todolist; user id=sa; pwd=Senai@134; TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -ContextDir Contexts -Context todolistContext -f
+
+"ConnectionStrings": {
+  "DefaultConnection": "Data Source=DESKTOP-3BKCPN3; initial catalog=todolist; user id=sa; pwd=Senai@134; TrustServerCertificate=true;"
+},
